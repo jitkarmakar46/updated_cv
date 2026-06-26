@@ -1,0 +1,38 @@
+*{
+    background-color: beige;
+    text-align:center;
+   
+}
+#Jit{
+   background-color:darkgoldenrod;
+    font-style:oblique;
+    font-weight: 450;
+}
+#career{
+    background-color:darkgoldenrod;
+    font-style: italic;
+    font-weight: 200;
+}
+p{
+    background-color: aquamarine;
+    font-style: oblique;
+    
+}
+#education{
+    background-color:darkgoldenrod;
+    font-style:italic;
+}
+#tech{
+    background-color: darkgoldenrod;
+    font-style: italic;
+}
+li{
+    background-color:antiquewhite;
+    font-style: oblique;
+}
+#contact{
+   font-style: oblique;
+   color: cadetblue;
+}
+
+
